@@ -22,4 +22,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live Demo
-[Link will go here after deployment]
+[Live App](https://stock-allocator-firfrfexq86ubuosrvyqpb.streamlit.app/)
